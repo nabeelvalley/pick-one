@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "@types/monk": "^6.0.0",
+    "@types/node": "^13.9.8",
+    "express": "^4.17.1",
+    "monk": "^7.1.2",
+    "tailwindcss": "^1.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
