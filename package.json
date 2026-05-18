@@ -5,7 +5,7 @@
   "dependencies": {
     "@types/monk": "^6.0.0",
     "@types/node": "^13.9.8",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "monk": "^7.1.2",
     "tailwindcss": "^1.2.0"
   },
